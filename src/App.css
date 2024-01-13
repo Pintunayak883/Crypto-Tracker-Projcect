@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,700;1,100&family=Oregano&family=Oswald:wght@400;600&family=Playfair+Display:wght@400;600&family=Poppins&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
+body {
+  background: #14161a;
+  color: #fff;
+  font-family: "Poppins" sans-serif;
+}
+
+.bannerImg {
+  background-image: url("../public/images/Bg.jpeg");
+  min-width: 100vw;
+  height: 420px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
